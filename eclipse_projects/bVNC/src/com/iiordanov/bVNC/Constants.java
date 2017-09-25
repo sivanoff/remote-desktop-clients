@@ -186,7 +186,7 @@ public class Constants {
     public final static String AUTOX_SESS_PROG_TRINITY = "/usr/bin/starttde";
     public final static String AUTOX_SESS_PROG_MATE    = "/usr/bin/mate-session";
     
-    public static final String DEFAULT_LAYOUT_MAP = "English (US)";
+    public static final String DEFAULT_LAYOUT_MAP = "Russian (Russia)";
     
     public static final String passwordKey = "MasterPassword";
     public static final String testpassword  = "password";
